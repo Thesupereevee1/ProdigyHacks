@@ -8,7 +8,7 @@ Next on prodegy open the url area and type javascript: then paste the code and h
 
 ### MED
 Simply open the file that sounds more interesting, click the "Raw" button, then copy the code
-Next on prodegy open the make a bookbar and type javascript: then paste the code and hit enter.
+Next on prodegy open the make a bookmark and type javascript: then paste the code and hit enter.
 Then click the bookbar
 
 
