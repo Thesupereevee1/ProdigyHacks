@@ -6,3 +6,4 @@ Simply open the file that sounds more interesting, click the "Raw" button, then 
 Next on prodegy open the url area and type javascript: then paste the code and hit enter!
 
 rxzyx made some of these hacks!
+PXIFusion made some of these hacks!
