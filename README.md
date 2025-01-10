@@ -14,3 +14,4 @@ Then click the bookbar
 
 rxzyx made some of these hacks!
 Dragon_X/PIXIfusionX made some of these hacks!
+Others i made!
