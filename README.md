@@ -12,6 +12,6 @@ Next on prodegy open the make a bookmark and type javascript: then paste the cod
 Then click the bookbar
 
 
-rxzyx made some of these hacks!
-Dragon_X/PIXIfusionX made some of these hacks!
+rxzyx made some of these hacks! \n
+Dragon_X/PIXIfusionX made some of these hacks! \n
 Others i made!
